@@ -1,6 +1,6 @@
 # Object Detection with YOLO 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eagleshot/CustomYOLOModel/blob/main/yolo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eagleshot/IntroductionToYOLO/blob/main/yolo.ipynb)
 
 Hello! This is a tutorial, where you can learn object detection with YOLO (You Only Look Once). YOLO is a state-of-the-art, real-time object detection algorithm known for its speed and accuracy. 
 It combines object classification and localization in a single neural network, making it incredibly fast and efficient.
